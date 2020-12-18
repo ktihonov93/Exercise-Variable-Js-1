@@ -23,7 +23,7 @@
   console.log(peopleFollowingWithDavid);
 
 
-  let WHATTIMEisIT = new Date();
+  let WhatTimeIsIt = new Date();
 
   /*
 
